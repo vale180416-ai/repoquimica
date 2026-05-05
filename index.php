@@ -112,7 +112,7 @@ $historia = [
 </div>
 
 <footer>
-    <p>Proyecto educativo en PHP - 2026</p>
+    <p>Proyecto educativo en PHP - 2025</p>
 </footer>
 
 </body>
