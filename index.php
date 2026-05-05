@@ -103,7 +103,7 @@ $historia = [
 </header>
 
 <div class="container">
-    <?php foreach ($historia as $etapa): ?>
+    <?php foreach ($historias as $etapa): ?>
         <div class="card">
             <h2><?php echo $etapa["titulo"]; ?></h2>
             <p><?php echo $etapa["descripcion"]; ?></p>
